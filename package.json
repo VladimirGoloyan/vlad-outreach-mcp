@@ -1,0 +1,25 @@
+{
+  "name": "outreach-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "check": "tsc --noEmit",
+    "test": "npm run check && npm run package:desktop && node --experimental-strip-types --test test/*.test.ts test/*.test.mjs",
+    "package:desktop": "node scripts/package-desktop.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/server": "2.3.1",
+    "zod": "4.6.5"
+  },
+  "devDependencies": {
+    "@modelcontextprotocol/client": "2.3.1",
+    "@types/node": "24.19.1",
+    "ajv": "^8.20.0",
+    "esbuild": "^0.28.2",
+    "typescript": "5.9.3"
+  }
+}

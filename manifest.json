@@ -1,0 +1,41 @@
+{
+  "manifest_version": "0.3",
+  "name": "outreach-mcp",
+  "display_name": "Vlad Outreach MCP",
+  "version": "1.0.0",
+  "description": "Find, rank and email KrispWork, KrispCX and KrispAPI leads from any CSV you give or attach to Claude, with source-verified research. Never sends email.",
+  "long_description": "No settings or API keys are required. Give Claude a leads CSV (a file path or an attachment) and it is opened only for the duration of each tool call. Claude researches companies and missing contact details with its own web tools, and the extension downloads each cited page to verify every quote before using it. Contact corrections need your approval. Drafts only, never sending.",
+  "author": {
+    "name": "Outreach MCP contributors"
+  },
+  "server": {
+    "type": "node",
+    "entry_point": "server/index.mjs",
+    "mcp_config": {
+      "command": "node",
+      "args": [
+        "${__dirname}/server/index.mjs",
+        "--working-folder",
+        "${user_config.working_folder}"
+      ]
+    }
+  },
+  "tools_generated": true,
+  "compatibility": {
+    "platforms": [
+      "darwin",
+      "win32"
+    ],
+    "runtimes": {
+      "node": ">=20.0.0"
+    }
+  },
+  "user_config": {
+    "working_folder": {
+      "type": "directory",
+      "title": "Working folder (optional)",
+      "description": "Where saved research, corrections and drafts are kept, one subfolder per leads file. Leave empty to use \"Outreach MCP\" in your home folder.",
+      "required": false
+    }
+  }
+}

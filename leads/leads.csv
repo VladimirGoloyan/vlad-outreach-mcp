@@ -1,0 +1,51 @@
+lead_id,first_name,last_name,title,company,industry,headcount,country,email
+L001,Leo,Moreau,VP of Sales,Cloudhaven,Software,,Germany,leo.moreau@cloudhaven.example
+L002,Arman,Sargsyan,Head of IT,Kodex Labs,Software,75,Armenia,sales@kodexlabs.example
+L003,Emma,Hakobyan,VP of Sales,Sparkwave Media,Marketing Agency,55,Spain,emma.hakobyan@sparkwavemedia.example
+L004,Zoe,Martin,Director of People,Nimbus Dev Shop,Software,180,Armenia,zoe.martin@nimbusdevshop.example
+L005,Elif,Garcia,Office Assistant,Quantum Health Tech,Healthcare Technology,510,United States,elif.garcia@quantumhealthtech.example
+L006,Leo,Fischer,VP of Sales,Lumen Sales Academy,Training,65,United Kingdom,leo.fischer@lumensalesacademy.example
+L007,Ravi,Jansen,Director of People,Orbit Fintech,Financial Services,620,United Kingdom,ravi.jansen@orbitfintech.example
+L008,Mila,Hakobyan,VP of Sales,Harbor Insurance Co,Insurance,9500,United States,mila.hakobyan@harborinsuranceco.example
+L009,Jonas,Hakobyan,Head of Operations,Quantum Health Tech,Healthcare Technology,510,United States,jonas.hakobyan@quantumhealthtech.example
+L010,Chloe,Wilson,Junior Designer,Tiny Pet Shop,Retail,8,Spain,chloe.wilson@tinypetshop.example
+L011,Omar,Khan,,Polaris Remote Teams,Software,270,United States,omar.khan@polarisremoteteams.example
+L012,Sofia,Novak,Head of Operations,Talently HR,HR Services,210,Canada,sofia.novak@talentlyhr.example
+L013,Hugo,Taylor,Head of IT,Cloudhaven,Software,1400,Germany,hugo.taylor@cloudhaven.example
+L014,Noah,Jansen,VP of Sales,BrightLane Consulting,Consulting,850,United Kingdom,noah.jansen@brightlaneconsulting.example
+L015,Chloe,Dubois,IT Manager,Kodex Labs,Software,75,Armenia,chloe.dubois@kodexlabs.example
+L016,Sofia,Wilson,Head of Remote Work,BrightLane Consulting,Consulting,850,United Kingdom,sofia.wilson@brightlaneconsulting.example
+L017,Noah,Yilmaz,Head of Operations,Echo Customer Ops,BPO / Outsourcing,3100,India,noah.yilmaz@echocustomerops.example
+L018,Priya,Smith,IT Manager,Nimbus Dev Shop,Software,180,Armenia,priya.smith@nimbusdevshop.example
+L019,Nina,Patel,Head of Customer Success,Corner Bakery Group,Food & Beverage,2600,Canada,nina.patel@cornerbakerygroup.example
+L020,Nina,Smith,Junior Designer,Northwind Analytics,Software,320,United States,nina.smith@northwindanalytics.example
+L021,Leo,Brown,Chief Operating Officer,Vertex Supply Chain,Logistics,4200,Netherlands,leo.brown@vertexsupplychain.example
+L022,Omar,Schmidt,VP of Sales,Pixelforge Studio,Marketing Agency,95,Netherlands,omar.schmidt@pixelforgestudio.example
+L023,Noah,Patel,Junior Designer,Fable Games,Gaming,420,France,noah.patel@fablegames.example
+L024,Julia,Laurent,Office Assistant,Kodex Labs,Software,75,Armenia,julia.laurent@kodexlabs.example
+L025,Grace,Sharma,Marketing Intern,Cloudhaven,Software,1400,Germany,grace.sharma@cloudhaven.example
+L026,Ravi,Becker,Director of People,Greenfield Edtech,Education Technology,380,India,ravi.becker@greenfieldedtech.example
+L027,Priya,Khan,Head of Remote Work,Mosaic Design Collective,Design Agency,30,France,priya.khan@mosaicdesigncollective.example
+L028,Hugo,Laurent,Head of IT,Vertex Supply Chain,Logistics,4200,Netherlands,hugo.laurent@vertexsupplychain.example
+L029,Leo,Wilson,IT Manager,Greenfield Edtech,Education Technology,380,India,leo.wilson@greenfieldedtech.example
+L030,Leo,Khan,Head of IT,Polaris Remote Teams,Software,270,United States,leo.khan@polarisremoteteams.example
+L031,Lukas,Lopez,Head of Remote Work,Summit Wealth Advisors,Financial Services,90,Australia,lukas.lopez@summitwealthadvisors.example
+L032,Emma,Khan,IT Manager,Northwind Analytics,Software,320,United States,emma.khan@northwindanalytics.example
+L033,Daniel,Brown,VP of Sales,Ironclad Manufacturing,Manufacturing,7800,Germany,daniel.brown@ironcladmanufacturing.example
+L034,Jonas,Smith,VP of Engineering,Harbor Insurance Co,Insurance,9500,United States,jonas.smith@harborinsuranceco.example
+L035,,,,BrightLane Consulting,Consulting,850,United Kingdom,info@brightlaneconsulting.example
+L036,Maria,Weber,Director of Sales Enablement,Mosaic Design Collective,Design Agency,30,France,maria.weber@mosaicdesigncollective.example
+L037,Jonas,Wilson,VP of Engineering,Pixelforge Studio,Marketing Agency,95,Netherlands,jonas.wilson@pixelforgestudio.example
+L038,Mila,Wilson,Head of Operations,Bluepeak Recruiting,Recruiting,140,Australia,mila.wilson@bluepeakrecruiting.example
+L039,Aram,Sargsyan,Head of IT,Lumen Sales Academy,Training,65,United Kingdom,aram.sargsyan@lumensalesacademy.example
+L040,Chloe,Smith,Head of Customer Success,Atlas Research Partners,Consulting,1200,Germany,chloe.smith@atlasresearchpartners.example
+L041,Aram,Khan,Director of People,Atlas Research Partners,Consulting,1200,Germany,aram.khan@atlasresearchpartners.example
+L042,Priya,Smith,Chief Operating Officer,Meridian Legal Group,Legal Services,460,United States,priya.smith@meridianlegalgroup.example
+L043,Noah,Miller,Director of Sales Enablement,Corner Bakery Group,Food & Beverage,2600,Canada,noah.miller@cornerbakerygroup.example
+L044,Elif,Sharma,Chief Operating Officer,Bluepeak Recruiting,Recruiting,140,Australia,elif.sharma@bluepeakrecruiting.example
+L045,Omar,Schmidt,Junior Designer,Sparkwave Media,Marketing Agency,55,Spain,omar.schmidt@sparkwavemedia.example
+L046,Emma,Jansen,Head of Operations,Talently HR,HR Services,210,Canada,emma.jansen@talentlyhr.example
+L047,Julia,Yilmaz,VP of Sales,Orbit Fintech,Financial Services,620,United Kingdom,julia.yilmaz@orbitfintech.example
+L048,Grace,Taylor,Director of People,Orbit Fintech,Financial Services,620,United Kingdom,grace.taylor@orbitfintech
+L049,Nina,Smith,COO,Northwind Analytics,Software,320,United States,NINA.SMITH@NORTHWINDANALYTICS.EXAMPLE
+L050,Jonas,Brown,Head of Remote Work,Meridian Legal Group,Legal Services,460,United States,jonas.brown@meridianlegalgroup.example
